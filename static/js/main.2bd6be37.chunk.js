@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-quiz-app"]=this["webpackJsonpreact-quiz-app"]||[]).push([[0],{11:function(t,n,e){"use strict";e.r(n);e(0);var c=e(3),i=e.n(c),p=(e(8),e(9),e(1)),r=function(){return Object(p.jsx)("h1",{children:"Quiz App"})};i.a.render(Object(p.jsx)(r,{}),document.getElementById("root"))},8:function(t,n,e){},9:function(t,n,e){}},[[11,1,2]]]);
+//# sourceMappingURL=main.2bd6be37.chunk.js.map
