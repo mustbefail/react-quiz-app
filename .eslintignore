@@ -1,0 +1,5 @@
+*.css
+*.svg
+test/fixtures
+**/app/public
+node_modules
